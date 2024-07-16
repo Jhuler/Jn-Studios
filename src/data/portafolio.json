@@ -1,0 +1,44 @@
+[
+    {
+        "id": "encantadora-boutique",
+        "cliente_nombre": "ENCANTADORA BOUTIQUE",
+        "image": "assets/portafolio/encantadora-boutique/image.jpg",
+        "logo": "assets/portafolio/encantadora-boutique/preview.png",
+        "mock_up": "assets/portafolio/encantadora-boutique/detalle.png"
+    },
+    {
+        "id": "ruge",
+        "cliente_nombre": "RUGE",
+        "image": "assets/portafolio/ruge/image.jpg",
+        "logo": "assets/portafolio/ruge/preview.png",
+        "mock_up": "assets/portafolio/ruge/detalle.png"
+    },
+    {
+        "id": "brillo-store",
+        "cliente_nombre": "BRILLO STORE",
+        "image": "assets/portafolio/brillo-store/image.png",
+        "logo": "assets/portafolio/brillo-store/preview.png",
+        "mock_up": "assets/portafolio/brillo-store/detalle.png"
+    },
+    {
+        "id": "annie-accesorios",
+        "cliente_nombre": "ANNIE ACCESORIOS",
+        "image": "assets/portafolio/annie-accesorios/image.jpg",
+        "logo": "assets/portafolio/annie-accesorios/preview.png",
+        "mock_up": "assets/portafolio/annie-accesorios/detalle.png"
+    },
+    {
+        "id": "armario-bellota",
+        "cliente_nombre": "EL ARMARIO DE BELLOTA",
+        "image": "assets/portafolio/armario-bellota/image.jpg",
+        "logo": "assets/portafolio/irmas/preview.png",
+        "mock_up": "assets/portafolio/armario-bellota/detalle.png"
+    },
+    {
+        "id": "spbi-psicoterapias",
+        "cliente_nombre": "PIENSA, SIENTE Y VIVE INTENSAMENTE",
+        "image": "assets/portafolio/spbi-psicoterapias/image.jpg",
+        "logo": "assets/portafolio/ruge/preview.png",
+        "mock_up": "assets/portafolio/spbi-psicoterapias/detalle.png"
+    }
+]

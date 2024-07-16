@@ -1,0 +1,324 @@
+[
+    {
+        "id": "identidad-visual",
+        "uri": "identidad-visual",
+        "name": "Identidad visual",
+        "info": "Te ayudaré a darle vida y personalidad a tu marca de manera consistente y profesional.Incluye todo lo que necesitas para destacar y dejar una impresión duradera en tus clientes.",
+        "image": "assets/servicios/identidad visual/premium.jpg",
+        "portada": "assets/servicios/identidad visual/portada.jpg",
+        "packs": [
+            {
+                "name": "BÁSICO",
+                "contenido": [
+                    {"id":1, "text":"2 propuestas de logo principal para que puedas seleccionar tu favorita"},
+                    {"id":2, "text":"1 variación de logo"},
+                    {"id":3, "text":"ícono de marca (Un máximo de 3 modificaciones al logo principal"},
+                    {"id":4, "text":"Moodboard (Dirección visual)"},
+                    {"id":5, "text":"Brandboard (paleta de colores, tipografía, diseño de trama o patrón)"},
+                    {"id":6, "text":"Manual de marca"}
+                ],
+                "regalo": [
+                    {"id":1, "text":"5 ideas de contenido"}
+                ],
+                "incluye": [
+                    {"id":1, "text":"Archivos .AI .EPS y .PNG"}
+                ],
+                "tiempo": "25 días",
+                "soles": 480,
+                "dolares": 265,
+                "image": "assets/servicios/identidad visual/basico.jpg",
+                "wtsp": "*identidad visual básico*"
+            },
+            {
+                "name": "EMPRENDIENDO",
+                "contenido": [
+                    {"id":1, "text":"2 propuestas de logo principal para que puedas seleccionar tu favorita"},
+                    {"id":2, "text":"1 variación de logo"},
+                    {"id":3, "text":"Ícono de marca (Un máximo de 5 modificaciones al logo principal)"},
+                    {"id":4, "text":"Moodboard (Dirección visual)"},
+                    {"id":5, "text":"Brandboard (paleta de colores, tipografía, diseño de trama o patrón)"},
+                    {"id":6, "text":"Manual de marca"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"1 plantilla para post"},
+                    {"id":2, "text":"1 plantilla para stories"},
+                    {"id":3, "text":"Tarjeta de visita o presentación"},
+                    {"id":4, "text":"Archivos .AI .EPS y .PNG."}
+                ],
+                "tiempo": "25 días",
+                "soles": 850,
+                "dolares": 385,
+                "image": "assets/servicios/identidad visual/emprendiendo.jpg",
+                "wtsp": "*identidad visual emprendiendo*"
+            },
+            {
+                "name": "PREMIUM",
+                "contenido": [
+                    {"id":1, "text":"Concepto y personalidad de marca"},
+                    {"id":2, "text":"2 propuestas de logo principal para que puedas seleccionar tu favorita"},
+                    {"id":3, "text":"2 variaciones de logo"},
+                    {"id":4, "text":"Ícono de marca (Un máximo de 6 modificaciones al logo principal)"},
+                    {"id":5, "text":"Moodboard (Dirección visual)"},
+                    {"id":6, "text":"Brandboard (paleta de colores, tipografía, diseño de trama o patrón y gráficos (4)"},
+                    {"id":7, "text":"Manual de marca"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"4 plantillas para post"},
+                    {"id":2, "text":"3 plantillas para stories"},
+                    {"id":3, "text":"5 íconos IG Highlights"},
+                    {"id":4, "text":"Tarjeta de visita o presentación"},
+                    {"id":5, "text":"Banner para facebook"},
+                    {"id":6, "text":"Archivos .AI .EPS y .PNG."}
+                ],
+                "tiempo": "45 días",
+                "soles": 1500,
+                "dolares": 580,
+                "image": "assets/servicios/identidad visual/premium.jpg",
+                "wtsp": "*identidad visual premium*"
+            }
+        ],
+        "para_ti_no": [],
+        "para_ti": [],
+        "proceso": [
+            {"id":1, "text":"Tenemos una reunión por videollamada para conocer tu marca y las ideas que tienes pensado"},
+            {"id":2, "text":"Una vez que estés conforme con lo que ofrezco, como trabajo y el estilo de diseño que manejo, debe realizar el pago del 50% del costo del servicio"},
+            {"id":3, "text":"Se realiza una investigación detallada para comprender mejor tu marca. (BRIEF)"},
+            {"id":4, "text":"Una ronda de modificaciones (5 máx.) En la fecha pautada te estaré enviando las propuestas de diseño de cada uno de tus items, mediante una presentación que incluye conceptos y montajes de marca de ahí se elige y corrige la propuesta seleccionada"},
+            {"id":5, "text":"Una vez conforme con el resultado final, realizar el pago del 50% restante para luego enviarte cada uno de tus items via correo, en archivos editables, pdf e imágenes"}
+        ]
+    },
+    {
+        "id": "social-media",
+        "uri": "social-media",
+        "name": "Social media",
+        "info": "Te ayudaré a crear contenido cautivador y diseño profesional para tu presencia en redes. Destaca y atrae a tu audiencia.",
+        "image": "assets/servicios/social media/basico.jpg",
+        "portada": "assets/servicios/social media/portada.jpg",
+        "packs": [
+            {
+                "name": "BÁSICO",
+                "contenido": [
+                    {"id":1, "text":"Moodboard (Dirección visual)"},
+                    {"id":2, "text":"Brandboard (paleta de colores, tipografía, diseño de elementos gráficos (3))"},
+                    {"id":3, "text":"Guía de estilo para Instagram"},
+                    {"id":4, "text":"3 íconos IG Highlights"},
+                    {"id":5, "text":"3 plantillas para post"},
+                    {"id":6, "text":"3 plantillas para stories"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Plantillas editables en formato Canva para usar desde el móvil o la computadora"},
+                    {"id":2, "text":"Archivos .AI .EPS y .PNG"}
+                ],
+                "tiempo": "15 días",
+                "soles": 450,
+                "dolares": 225,
+                "image": "assets/servicios/social media/basico.jpg",
+                "wtsp": "*social media básico*"
+            },
+            {
+                "name": "FLEXIBLE",
+                "contenido": [
+                    {"id":1, "text":"Moodboard (Dirección visual)"},
+                    {"id":2, "text":"Brandboard (paleta de colores, tipografía, diseño de elementos gráficos (3))"},
+                    {"id":3, "text":"Guía de estilo para Instagram"},
+                    {"id":4, "text":"Diseño de feed"},
+                    {"id":5, "text":"5 íconos IG Highlights"},
+                    {"id":6, "text":"6 plantillas para post"},
+                    {"id":7, "text":"4 plantillas para stories"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Plantillas editables en formato Canva para usar desde el móvil o la computadora"},
+                    {"id":2, "text":"Archivos .AI .EPS y .PNG"}
+                ],
+                "tiempo": "25 días",
+                "soles": 700,
+                "dolares": 355,
+                "image": "assets/servicios/social media/flexible.jpg",
+                "wtsp": "*social media flexible*"
+            }
+        ],
+        "para_ti_no": [],
+        "para_ti": [],
+        "proceso": [
+            {"id":1, "text":"Tenemos una reunión por videollamada para conocer tu marca y las ideas que tienes pensado"},
+            {"id":2, "text":"Una vez que estés conforme con lo que ofrezco, como trabajo y el estilo de diseño que manejo, debe realizar el pago del 50% del costo del servicio"},
+            {"id":3, "text":"Se realiza una investigación detallada para comprender mejor tu marca. (BRIEF)"},
+            {"id":4, "text":"Una ronda de modificaciones (5 máx.) En la fecha pautada te estaré enviando las propuestas de diseño de cada uno de tus items, mediante una presentación que incluye conceptos y montajes de marca de ahí se elige y corrige la propuesta seleccionada"},
+            {"id":5, "text":"Una vez conforme con el resultado final, realizar el pago del 50% restante para luego enviarte cada uno de tus items via correo, en archivos editables, pdf e imágenes"}
+        ]
+    },
+    {
+        "id": "creacion-contenido",
+        "uri": "creacion-contenido",
+        "name": "Creación de contenido",
+        "info": "Te ofreceré estrategias creativas, contenido cautivador y una gestión profesional de tus perfiles. Atrae, conecta y haz crecer tu comunidad en línea.",
+        "image": "assets/servicios/creacion contenido/basico.jpg",
+        "portada": "assets/servicios/creacion contenido/portada.jpg",
+        "packs": [
+            {
+                "name": "BÁSICO",
+                "contenido": [
+                    {"id":1, "text":"3 posteos semanales para Instagram (réplicas en facebook) (2 Reels, 1 Carrusel)"},
+                    {"id":2, "text":"5 diseños de plantillas para publicaciones (2 plantillas para portada de reels, 1 plantilla para carrusel, 2 plantillas para stories)"},
+                    {"id":3, "text":"Creación de contenido estratégico y creativo para redes sociales por 1 mes"},
+                    {"id":4, "text":"Gestión de perfiles en Facebook e Instagram"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Archivos .AI .PNG. y formato Canva"}
+                ],
+                "tiempo": "4 semanas",
+                "soles": 620,
+                "dolares": 300,
+                "image": "assets/servicios/creacion contenido/basico.jpg",
+                "wtsp": "*creación de contenido básico*"
+            },
+            {
+                "name": "IDEAL",
+                "contenido": [
+                    {"id":1, "text":"5 posteos semanales para Instagram (réplicas en facebook) (3 Reels, 2 Carrusel)"},
+                    {"id":2, "text":"8 diseños de plantillas para publicaciones (3 plantillas para portada de reels, 2 plantillas para carrusel, 3 plantillas para stories)"},
+                    {"id":3, "text":"Creación de contenido estratégico y creativo para redes sociales por 1 mes"},
+                    {"id":4, "text":"Gestión y optimización de perfiles en Facebook e Instagram"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Archivos .AI .PNG. y formato Canva"}
+                ],
+                "tiempo": "4 semanas",
+                "soles": 950,
+                "dolares": 425,
+                "image": "assets/servicios/creacion contenido/ideal.jpg",
+                "wtsp": "*creación de contenido ideal*"
+            }
+        ],
+        "para_ti_no": [],
+        "para_ti": [],
+        "proceso": [
+            {"id":1, "text":"Tenemos una reunión por videollamada para conocer tu marca y las ideas que tienes pensado"},
+            {"id":2, "text":"Una vez que estés conforme con lo que ofrezco, como trabajo y el estilo de diseño que manejo, debe realizar el pago del 50% del costo del servicio"},
+            {"id":3, "text":"Luego de que se haya realizado el pago, realizaremos un calendario de contenido con fechas de trabajo, pilares de contenido, y la propuesta para la primera semana"},
+            {"id":4, "text":"Cuando se haya aprobado todo, pasaremos a la creación de contenido de la primera semana"},
+            {"id":5, "text":"Una vez conforme con el resultado final, realizar el pago del 50% restante para luego enviarte los archivos correspondientes"}
+        ]
+    },
+    {
+        "id": "canva-kit",
+        "uri": "canva-kit",
+        "name": "Canva Kit",
+        "info": "Diseña con estilo y facilidad en Canva, obtendrás plantillas personalizadas, gráficos y elementos visuales listos para usar.",
+        "image": "assets/servicios/canvakit/pre.jpg",
+        "portada": "assets/servicios/canvakit/portada.jpg",
+        "packs": [
+            {
+                "name": "BÁSICO",
+                "contenido": [
+                    {"id":1, "text":"Brandboard (paleta de colores, estilo tipográfico"},
+                    {"id":2, "text":"4 plantillas perzonalizados para Canva"},
+                    {"id":3, "text":"2 plantillas para stories"}
+                ],
+                "regalo": [
+                    {"id":1, "text":"5 ideas de contenido"}
+                ],
+                "incluye": [
+                    {"id":1, "text":"Archivos en Canva"}
+                ],
+                "tiempo": "10 días",
+                "soles": 220,
+                "dolares": 150,
+                "image": "assets/servicios/canvakit/basico.jpg",
+                "wtsp": "*canva kit básico*"
+            },
+            {
+                "name": "PLUS",
+                "contenido": [
+                    {"id":1, "text":"Brandboard (paleta de colores, estilo tipográfico"},
+                    {"id":2, "text":"6 plantillas perzonalizados para Canva"},
+                    {"id":3, "text":"3 plantillas para stories"},
+                    {"id":4, "text":"Tarjeta de presentación o agradecimiento"}
+                ],
+                "regalo": [
+                    {"id":1, "text":"10 ideas de contenido"}
+                ],
+                "incluye": [
+                    {"id":1, "text":"Archivos en Canva"}
+                ],
+                "tiempo": "15 días",
+                "soles": 280,
+                "dolares": 200,
+                "image": "assets/servicios/canvakit/plus.jpg",
+                "wtsp": "*canva kit plus*"
+            }
+        ],
+        "para_ti_no": [
+            {"id":1, "text":"No te gusta, no quieres o no sabes utilizar canva"},
+            {"id":2, "text":"Quieres hacerle ajustes a tu logo o crear variantes"},
+            {"id":3, "text":"No tienes logo y esperas que en canvakit yo lo diseñe"}
+        ],
+        "para_ti": [
+            {"id":1, "text":"Tienes un logo, pero no tienes una identidad visual"},
+            {"id":2, "text":"Quieres crear contenido de forma más rápida"},
+            {"id":3, "text":"No tienes una paleta de color o tipografía definida para tu marca"},
+            {"id":4, "text":"Utilizas canva y quieres sacarle el máximo provecho"}
+        ],
+        "proceso": [
+            {"id":1, "text":"Tenemos una reunión por videollamada para conocer tu marca y las ideas que tienes pensado"},
+            {"id":2, "text":"Una vez que estés conforme con lo que ofrezco, como trabajo y el estilo de diseño que manejo, debe realizar el pago del 50% del costo del servicio"},
+            {"id":3, "text":"Luego de que se haya realizado el pago, realizaremos un calendario de contenido con fechas de trabajo, pilares de contenido, y la propuesta para la primera semana"},
+            {"id":4, "text":"Cuando se haya aprobado todo, pasaremos a la creación de contenido de la primera semana"},
+            {"id":5, "text":"Una vez conforme con el resultado final, realizar el pago del 50% restante para luego enviarte los archivos correspondientes"}
+        ]
+    },
+    {
+        "id": "tarjeta-invitacion",
+        "uri": "tarjeta-invitacion",
+        "name": "Tarjetas de invitación",
+        "info": "Crearé diseños personalizados que reflejen tu estilo y temática. Sorprende a tus invitados desde el primer momento y crea recuerdos inolvidables.",
+        "image": "assets/servicios/tarjeta invitacion/digital.jpg",
+        "portada": "assets/servicios/tarjeta invitacion/portada.jpg",
+        "packs": [
+            {
+                "name": "TARJETA DIGITAL",
+                "contenido": [
+                    {"id":1, "text":"Diseño personalizado (Paleta de colores y temática)"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Archivos en .PNG .PDF"}
+                ],
+                "tiempo": "2 días",
+                "soles": 30,
+                "dolares": 25,
+                "image": "assets/servicios/tarjeta invitacion/digital.jpg",
+                "wtsp": "*tarjeta de invitación digital*"
+            },
+            {
+                "name": "TARJETA DIGITAL INTERACTIVA",
+                "contenido": [
+                    {"id":1, "text":"Diseño personalizado (Paleta de colores y temática)"}
+                ],
+                "regalo": [],
+                "incluye": [
+                    {"id":1, "text":"Archivos en .PNG .PDF"}
+                ],
+                "tiempo": "4 días",
+                "soles": 45,
+                "dolares": 35,
+                "image": "assets/servicios/tarjeta invitacion/interactiva.jpg",
+                "wtsp": "*tarjeta de invitación digital interactiva*"
+            }
+        ],
+        "para_ti_no": [],
+        "para_ti": [],
+        "proceso": [
+            {"id":1, "text":"Tenemos una reunión por videollamada para conocer tus preferencias y las ideas que tienes pensado."},
+            {"id":2, "text":"Una vez que estés conforme con lo que ofrezco, como trabajo y el estilo de diseño que manejo, debe realizar el pago del 50% del costo del servicio."},
+            {"id":3, "text":"Una ronda de modificaciones (3 máx.) En la fecha pautada te estaré enviando las propuesta de diseño."},
+            {"id":4, "text":"Una vez conforme con el resultado final, realizar el pago del 50% restante para luego enviarte los archivos correspondientes."}
+        ]
+    }
+]
